@@ -1,7 +1,7 @@
 import Roll from "./components/roll/Roll";
 export default function App() {
   return (
-    <div>
+    <div className="w-screen h-screen flex justify-center items-center">
       <Roll />
     </div>
   );
